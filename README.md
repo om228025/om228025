@@ -2,7 +2,7 @@
 <h3 align="center">A Data Analytics | Final Year CS Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Python+%2F+Pandas+SQL+%2F+Bootstrap;MS Office+%2F+NumPy;transforming raw data into;actionable insights and;database management by SQL" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Python+%2F+Pandas+SQL+%2F+Bootstrap;MS%20Office+%2F+NumPy;transforming raw%20data%20into;actionable%20insights%20and;database%20management%20by%20SQL" />
 </p>
 
 ---
